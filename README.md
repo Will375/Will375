@@ -17,7 +17,7 @@ I'm a Games Technology BSc Graduate from the University of the West of England. 
 ## Notable Projects
 ### 😌 [Blissful](https://github.com/Will375/blissful)
 A VR game made in Unity. I attempted to make a game that would help people with anxiety through teaching them various relaxation techniques. There are various sounds and visuals that the player can interact with and enable/disable to help them relax. Moreover, the colours and areas of the terrain were chosen to be calming. 
-### ⛏️ Gold Rush
+### ⛏️ [Gold Rush](https://github.com/Will375/goldrush)
 A 3D platformer game made in Unity. The player must collect gold and avoid enemies. The game was made in a team of 4. I was responsible for the player movement, enemy AI and the level design. The game was made in 2 weeks.
 ### 🍫 Chocolate Classifier
 A machine learning project made in Python. The project uses a convolutional neural network to classify images of chocolate bars. I enhanced a pre-trained model using externally sourced data.
